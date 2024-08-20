@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm abid abderrahim</h1>
 ```bash
 Skilled Python developer specializing in building web applications with Django, creating GUIs with Tkinter and Kivy, and performing data scraping and analysis. Proficient in penetration testing with expertise in using various tools to identify web application vulnerabilities and ensure security. Strong command of Linux environments, including shell scripting and system management, with comprehensive knowledge of web technologies focused on secure and efficient implementations.
-```
+
 
 - 🌱 I’m currently learning **Penetrating testing, Python developer**
 - 💬 Ask me about **C, Python, FrontEnd, Linux ...**
