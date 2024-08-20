@@ -1,13 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm abid abderrahim</h1>
 <h3 align="center">
-    Skilled Python Developer specializing in:
-
-    Python Development: Expertise in building web applications with Django, creating GUIs with Tkinter and Kivy, and performing data scraping and analysis.
-    Penetration Testing: Proficient in using various tools for web application security, identifying vulnerabilities, and ensuring robust defenses.
-    Linux: Strong command of Linux environments, including shell scripting and system management.
-    Web Applications: Comprehensive knowledge of web technologies, with experience in both front-end and back-end development, focusing on secure and efficient implementations.
-
+Skilled Python developer specializing in building web applications with Django, creating GUIs with Tkinter and Kivy, and performing data scraping and analysis. Proficient in penetration testing with expertise in using various tools to identify web application vulnerabilities and ensure security. Strong command of Linux environments, including shell scripting and system management, with comprehensive knowledge of web technologies focused on secure and efficient implementations.
 </h3>
 
 - 🌱 I’m currently learning **Penetrating testing**
