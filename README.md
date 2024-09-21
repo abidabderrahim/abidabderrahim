@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm abid abderrahim</h1>
 
 <h2>
-Skilled in Front End Design With (HTML,CSS,JavaScript) and Python developer specializing in building web applications with Django, creating GUIs with Tkinter , and performing data scraping .
+Skilled in Front End Design With (HTML,CSS,JavaScript) and Python developer specializing in building web applications with Django, creating GUIs with Tkinter , and performing data scraping , mobile application .
 </h2>
 
-- 🌱 I’m currently learning **Penetrating testing, Python developer**
+- 🌱 I’m currently learning **Front End Development, Mobile application, Web applications , Python developer**
 - 💬 Ask me about **C, Python, FrontEnd, Linux ...**
 - 📫 How to reach me **abidabderrahim01gmail.com**
 - ⚡ Fun fact **Hard work is real**
