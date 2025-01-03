@@ -99,7 +99,7 @@
 - 📈 **Contributed to 50+ open-source projects**  
 - 🌟 **Maintainer of 5 repositories with 100
 
-## 📧 Contact Info
+## Contact Info
 
 - **Email**: [abderrahim@example.com](mailto:abidabderrahim01@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)  
