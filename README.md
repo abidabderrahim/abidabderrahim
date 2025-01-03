@@ -10,6 +10,55 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 
 ---
 
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> N3dal</span><span style="color:#E1E4E8">(</span><span style="color:#B392F0">Abdullah</span><span style="color:#E1E4E8">):</span></span>
+<span class="line"><span style="color:#9ECBFF">   """self-taught developer that love to learn more about Computer-Science and Technologies"""</span></span>
+<span class="line"><span style="color:#E1E4E8">   </span></span>
+<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __init__</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#E1E4E8">     </span></span>
+<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Nedal Abdullah"</span></span>
+<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.age </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> 23</span></span>
+<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.role </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Student"</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.</span><span style="color:#79B8FF">TOOLS</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#9ECBFF">          "ScriptingLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Bash-Script"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"matlab"</span><span style="color:#E1E4E8">),</span></span>
+<span class="line"><span style="color:#9ECBFF">          "ProgrammingLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"C"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"C++"</span><span style="color:#E1E4E8">),</span></span>
+<span class="line"><span style="color:#9ECBFF">          "MarkupLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"Html"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"markdown"</span><span style="color:#E1E4E8">),</span></span>
+<span class="line"><span style="color:#9ECBFF">          "OtherLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"json"</span><span style="color:#E1E4E8">, ),</span></span>
+<span class="line"><span style="color:#9ECBFF">          "Editors"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"VsCode"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Sublime"</span><span style="color:#E1E4E8">),</span></span>
+<span class="line"><span style="color:#9ECBFF">          "Platform"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"GNU/LINUX"</span><span style="color:#E1E4E8">,),</span></span>
+<span class="line"><span style="color:#9ECBFF">          "OtherTools"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"GIMP"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Git"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Arduino"</span><span style="color:#E1E4E8">)</span></span>
+<span class="line"><span style="color:#E1E4E8">         }</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.</span><span style="color:#79B8FF">INTERESTS</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span></span>
+<span class="line"><span style="color:#9ECBFF">         "Computer Sciences"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "Electrical &amp; Electronic Engineering"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "Computer Networks and Networking"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "Electromagnetic &amp; Antenna Design"</span></span>
+<span class="line"><span style="color:#E1E4E8">         ]</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">   def</span><span style="color:#B392F0"> use</span><span style="color:#E1E4E8">(self, tool):</span></span>
+<span class="line"><span style="color:#9ECBFF">      """use one of my tools or use bunch of them."""</span></span>
+<span class="line"><span style="color:#F97583">      return</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.tools[tool]</span></span>
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">   def</span><span style="color:#B392F0"> work</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#9ECBFF">      """"""</span></span>
+<span class="line"><span style="color:#F97583">      while</span><span style="color:#F97583"> not</span><span style="color:#79B8FF"> WORK_DONE</span><span style="color:#E1E4E8">:</span></span>
+<span class="line"><span style="color:#6A737D">         # keep work.</span></span>
+<span class="line"><span style="color:#79B8FF">         self</span><span style="color:#E1E4E8">.use(tool)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">      return</span><span style="color:#79B8FF"> WORK_DONE</span></span>
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __len__</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#9ECBFF">      """Fun Fact"""</span></span>
+<span class="line"><span style="color:#F97583">      return</span><span style="color:#79B8FF"> 181</span><span style="color:#6A737D"> # cm</span></span>
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __repr__</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#9ECBFF">      """"""</span></span>
+<span class="line"><span style="color:#F97583">      return</span><span style="color:#F97583"> f</span><span style="color:#9ECBFF">"</span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.name</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> an </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.age</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> y.o self-taught developer and </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.role</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF">"</span></span>
+<span class="line"></span></code></pre>
 
 ## Skills and Tools
 
