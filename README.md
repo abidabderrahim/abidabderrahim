@@ -32,7 +32,10 @@
 <span class="line"><span style="color:#9ECBFF">         "AI and Automation"</span></span>
 <span class="line"><span style="color:#E1E4E8">         ]</span></span>
 <span class="line"></span>
-<span class="line"></span></code></pre>
+<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __repr__</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#9ECBFF">      """"""</span></span>
+<span class="line"><span style="color:#F97583">      return</span><span style="color:#F97583"> f</span><span style="color:#9ECBFF">"</span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.name</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> an </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.age</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> y.o self-taught developer, working as </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.role</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF">"</span></span>
+<span class="line"></code></pre>
 
 ## Skills and Tools
 
