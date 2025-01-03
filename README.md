@@ -61,30 +61,24 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
     </a>
 </p>
 
-<div  align="center" style="display: flex;"> 
-  <p align="center">
-     <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
-         <!-- Trophy Stats -->
-         <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
-             <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
-         </a>
-         <a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only">
-             <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
-         </a>
-     </div>
-  </p>
-  <p align="center">
-     <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
-         <!-- Productive Time Stats -->
-         <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
-         </a>
-         <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
-             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
-         </a>
-     </div>
-  </p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <!-- Trophy Stats -->
+  <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
+      <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
+  </a>
+  <a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only">
+      <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
+  </a>
+
+  <!-- Productive Time Stats -->
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
+  </a>
 </div>
+
 
 
 
