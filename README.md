@@ -26,7 +26,9 @@
 <span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.</span><span style="color:#79B8FF">INTERESTS</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span></span>
 <span class="line"><span style="color:#9ECBFF">         "Penetration Testing"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "Web Development"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "Cybersecurity"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "Mobile Development"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "UI/UX Design"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "GUI Development"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "AI and Automation"</span></span>
 <span class="line"><span style="color:#E1E4E8">         ]</span></span>
 <span class="line"></span>
