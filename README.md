@@ -70,9 +70,9 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 
 ## 📧 Contact Info
 
-- **Email**: [abderrahim@example.com](mailto:abderrahim@example.com)  
-- **LinkedIn**: [linkedin.com/in/abderrahim](https://linkedin.com/in/abderrahim)  
-- **Upwork**: [upwork.com/freelancers/~abderrahim](https://www.upwork.com/freelancers/~abderrahim)
+- **Email**: [abderrahim@example.com](mailto:abidabderrahim01@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)  
+- **Upwork**: [upwork.com/freelancers/~abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)
 
 ---
 
