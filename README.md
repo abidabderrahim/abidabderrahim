@@ -32,7 +32,7 @@
 <span class="line"><span style="color:#9ECBFF">         "AI and Automation"</span></span>
 <span class="line"><span style="color:#E1E4E8">         ]</span></span>
 <span class="line"></span>
-
+<span class="line"></span></code></pre>
 
 ## Skills and Tools
 
