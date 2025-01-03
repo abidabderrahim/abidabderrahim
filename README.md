@@ -54,9 +54,15 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 - ![Penetration Testing Tools](https://img.shields.io/badge/-Penetration%20Testing%20Tools-black)
 - ...and more!
 
-<!-- Line 2: Achievements and Commit Stats -->
+
 <p align="center">
-    <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<p align="center">
+    <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
         <!-- Trophy Stats -->
         <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
             <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
@@ -68,7 +74,7 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 </p>
 
 <p align="center">
-    <div style="display: flex; justify-content: center; gap: 10px;">
+    <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
         <!-- Productive Time Stats -->
         <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
