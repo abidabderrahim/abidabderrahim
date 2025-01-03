@@ -52,11 +52,11 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 
 ## 📊 GitHub Stats
 
-![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abidabderrahim&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abidabderrahim&theme=radical)
 
 ---
 
@@ -78,6 +78,6 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 
 ## 🔹 Certifications
 
-- **AI Career Essentials** (ALX Program) [Repository Link](https://github.com/your-username/ai-career-essentials)
-- **Git-at-a-Startup** (ALX Program) [Repository Link](https://github.com/your-username/git-at-a-startup)
-- **Professional Foundations** (ALX Program) [Repository Link](https://github.com/your-username/professional-foundations)
+- **AI Career Essentials** (ALX Program) [Repository Link](https://github.com/abidabderrahim/AI-Career-Essentials-Certificate)
+- **Git-at-a-Startup** (ALX Program) [Repository Link](https://github.com/abidabderrahim/gig-at-a-startup-certificate)
+- **Professional Foundations** (ALX Program) [Repository Link](https://github.com/abidabderrahim/abidabderrahim-Professional-Foundations-Certificate)
