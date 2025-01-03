@@ -77,6 +77,11 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true"  width="64%" alt="@abidabderrahim's profile-details"/></a>
 </p>
 
+<!-- Most used programming languages -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=10&theme=github&hide_border=true" width="95%" alt="Most used languages">
+</p>
+
 ## 🏆 Achievements
 
 - 🥇 **Certified in AI Career Essentials** (ALX Program)  
