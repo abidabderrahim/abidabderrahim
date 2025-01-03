@@ -61,17 +61,20 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
     </a>
 </p>
 
-<p align="center">
-    <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
-        <!-- Trophy Stats -->
-        <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
-            <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
-        </a>
-        <a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only">
-            <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
-        </a>
-    </div>
-</p>
+<div  align="center"> 
+ <p align="center">
+     <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
+         <!-- Trophy Stats -->
+         <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
+             <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
+         </a>
+         <a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only">
+             <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
+         </a>
+     </div>
+ </p>
+</div>
+
 
 <p align="center">
     <div style="display: flex; flex: row; justify-content: center; gap: 10px;">
