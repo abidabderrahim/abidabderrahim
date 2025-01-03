@@ -80,18 +80,26 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-   <!-- Most Used Languages -->
-   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=5&theme=github&hide_border=true&layout=compact" width="60%" alt="Most used languages"/>
-   </p>
-   <!-- Contribution Stats - Light Mode -->
-   <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github_dark&hide_border=true" width="64%" alt="@abidabderrahim's profile-details"/>
-   </a>
-   <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="64%" alt="@abidabderrahim's profile-details"/>
-   </a>
+    <!-- Most Used Languages -->
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=5&theme=github&hide_border=true&layout=compact" width="60%" alt="Most used languages"/>
+    </div>
+
+    <!-- Contribution Stats - Dark Mode -->
+    <div>
+        <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github_dark&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
+        </a>
+    </div>
+
+    <!-- Contribution Stats - Light Mode -->
+    <div>
+        <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
+        </a>
+    </div>
 </div>
+
 
 
 ## 🏆 Achievements
