@@ -79,14 +79,15 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
   </a>
 </div>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-    <div>
+<div align="center" style="text-align: center;">
+    <div style="display: inline-block; margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=5&theme=github&hide_border=true&layout=compact" width="60%" alt="Most used languages"/>
     </div>
-    <div>
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
+    <div style="display: inline-block;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
     </div>
 </div>
+
 
 
 
