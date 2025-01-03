@@ -54,34 +54,30 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 - ![Penetration Testing Tools](https://img.shields.io/badge/-Penetration%20Testing%20Tools-black)
 - ...and more!
 
----
-
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@abidabderrahim#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-    <a href="https://wakatime.com/@Voko#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@abidabderrahim#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
+<a href="https://wakatime.com/@abidabderrahim#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abidabderrahim&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@abidabderrahim's wakatime stats"/></a>
+<a href="https://wakatime.com/@abidabderrahim#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abidabderrahim&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@abidabderrahim's wakatime stats"/></a>
+<a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@abidabderrahim's trophy stats"/></a>
+<a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@abidabderrahim's trophy stats"/></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksey-Voko&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksey-Voko&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksey-Voko&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksey-Voko&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4"  width="31%" alt="@abidabderrahim's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github&utcOffset=4"  width="31%" alt="@abidabderrahim's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github_dark&hide_border=true"  width="64%" alt="@abidabderrahim's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true"  width="64%" alt="@abidabderrahim's profile-details"/></a>
 </p>
-
----
 
 ## 🏆 Achievements
 
