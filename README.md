@@ -97,7 +97,7 @@
 
 - 🥇 **Certified in Professional Foundations** (ALX Program)  
 - 📈 **Contributed to 50+ open-source projects**  
-- 🌟 **Maintainer of 5 repositories with 100
+- 🌟 **Work on freelancing projects**
 
 ## Contact Info
 
