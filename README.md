@@ -32,29 +32,6 @@
 <span class="line"><span style="color:#9ECBFF">         "AI and Automation"</span></span>
 <span class="line"><span style="color:#E1E4E8">         ]</span></span>
 <span class="line"></span>
-<span class="line"><span style="color:#F97583">   def</span><span style="color:#B392F0"> use</span><span style="color:#E1E4E8">(self, tool):</span></span>
-<span class="line"><span style="color:#9ECBFF">      """Use one of my tools or use multiple tools."""</span></span>
-<span class="line"><span style="color:#F97583">      return</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.TOOLS[tool]</span></span>
-<span class="line"></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">   def</span><span style="color:#B392F0"> work</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#9ECBFF">      """"""</span></span>
-<span class="line"><span style="color:#F97583">      while</span><span style="color:#F97583"> not</span><span style="color:#79B8FF"> WORK_DONE</span><span style="color:#E1E4E8">:</span></span>
-<span class="line"><span style="color:#6A737D">         # Keep working.</span></span>
-<span class="line"><span style="color:#79B8FF">         self</span><span style="color:#E1E4E8">.use(tool)</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">      return</span><span style="color:#79B8FF"> WORK_DONE</span></span>
-<span class="line"></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __len__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#9ECBFF">      """Fun Fact"""</span></span>
-<span class="line"><span style="color:#F97583">      return</span><span style="color:#79B8FF"> 181</span><span style="color:#6A737D"> # cm</span></span>
-<span class="line"></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __repr__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#9ECBFF">      """"""</span></span>
-<span class="line"><span style="color:#F97583">      return</span><span style="color:#F97583"> f</span><span style="color:#9ECBFF">"</span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.name</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> an </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.age</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> y.o self-taught developer, working as </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.role</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF">"</span></span>
-<span class="line"></code></pre>
 
 
 ## Skills and Tools
