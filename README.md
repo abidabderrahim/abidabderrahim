@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 <p align="center">
  
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
@@ -11,9 +11,7 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 ---
 
 
-
-
-## 🔧 Skills and Tools
+## Skills and Tools
 
 ### **Languages**
 - ![Python](https://img.shields.io/badge/-Python-blue) 
@@ -55,38 +53,22 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 - ![Firefox](https://img.shields.io/badge/-Firefox-red)
 - ![Chrome](https://img.shields.io/badge/-Chrome-lightgray)
 - ![Penetration Testing Tools](https://img.shields.io/badge/-Penetration%20Testing%20Tools-black)
-- ...and more!
 
 
-<p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
+## Achievements
 
-
-
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-  <!-- Trophy Stats -->
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
-  </a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
-  </a>
-
-  <!-- Productive Time Stats -->
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
-  </a>
-</div>
-
-
-
-
-
-## 🏆 Achievements
-
-- 🥇 **Certified in AI Career Essentials** (ALX Program)  
+- 🥇 **Certified in Professional Foundations** (ALX Program)  
 - 📈 **Contributed to 50+ open-source projects**  
 - 🌟 **Maintainer of 5 repositories with 100
+
+## 📧 Contact Info
+
+- **Email**: [abderrahim@example.com](mailto:abidabderrahim01@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)  
+- **Upwork**: [upwork.com/freelancers/~abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)
+
+## Certifications
+
+- **AI Career Essentials** (ALX Program) [Repository Link](https://github.com/abidabderrahim/AI-Career-Essentials-Certificate)
+- **Git-at-a-Startup** (ALX Program) [Repository Link](https://github.com/abidabderrahim/gig-at-a-startup-certificate)
+- **Professional Foundations** (ALX Program) [Repository Link](https://github.com/abidabderrahim/abidabderrahim-Professional-Foundations-Certificate)
