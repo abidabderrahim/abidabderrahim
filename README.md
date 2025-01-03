@@ -79,6 +79,7 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true"  width="64%" alt="@abidabderrahim's profile-details"/></a>
 </p>
 
+
 ## 🏆 Achievements
 
 - 🥇 **Certified in AI Career Essentials** (ALX Program)  
