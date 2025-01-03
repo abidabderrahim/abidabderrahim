@@ -79,7 +79,7 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
   </a>
 </div>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=5&theme=github&hide_border=true&layout=compact" width="60%" alt="Most used languages"/>
     </div>
