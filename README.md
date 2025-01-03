@@ -10,6 +10,43 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 
 ---
 
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidabderrahim&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <!-- Trophy Stats -->
+    <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
+        <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
+    </a>
+    <a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only">
+        <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
+    </a>
+
+    <!-- Productive Time Stats -->
+    <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github_dark&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
+    </a>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abidabderrahim&theme=github&utcOffset=4" width="48%" alt="@abidabderrahim's productive-time"/>
+    </a>
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <!-- Most Used Languages -->
+    <div style="display: inline-block; width: 48%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=5&theme=github&hide_border=true&layout=compact" width="100%" alt="Most used languages"/>
+    </div>
+    
+    <!-- Profile Details -->
+    <div style="display: inline-block; width: 48%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="100%" alt="@abidabderrahim's profile-details"/>
+    </div>
+</div>
+
+
 ## 🔧 Skills and Tools
 
 ### **Languages**
@@ -81,15 +118,16 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- Most Used Languages -->
-    <div style="display: inline-block; width: 48%;">
+    <div style="width: 48%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidabderrahim&langs_count=5&theme=github&hide_border=true&layout=compact" width="100%" alt="Most used languages"/>
     </div>
     
     <!-- Profile Details -->
-    <div style="display: inline-block; width: 48%;">
+    <div style="width: 48%;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="100%" alt="@abidabderrahim's profile-details"/>
     </div>
 </div>
+
 
 
 
