@@ -86,18 +86,9 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
     </div>
 
     <!-- Contribution Stats - Dark Mode -->
-    <div>
-        <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github_dark&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
-        </a>
-    </div>
-
-    <!-- Contribution Stats - Light Mode -->
-    <div>
-        <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
-        </a>
-    </div>
+    <a href="https://github.com/issues?q=is%3Aissue+author%3Aabidabderrahim+archived%3Afalse+is%3Aclosed#gh-light-mode-only">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abidabderrahim&theme=github&hide_border=true" width="48%" alt="@abidabderrahim's profile-details"/>
+    </a>
 </div>
 
 
