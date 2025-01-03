@@ -40,45 +40,57 @@
 ## Skills and Tools
 
 ### **Languages**
-- ![Python](https://img.shields.io/badge/-Python-blue) 
-- ![C](https://img.shields.io/badge/-C-green) 
-- ![Bash](https://img.shields.io/badge/-Bash-black)  
-- ![HTML](https://img.shields.io/badge/-HTML-orange)
-- ![CSS](https://img.shields.io/badge/-CSS-blue) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-Python-blue" alt="Python">
+  <img src="https://img.shields.io/badge/-C-green" alt="C">
+  <img src="https://img.shields.io/badge/-Bash-black" alt="Bash">
+  <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+</div>
 
 ### **Frameworks and Libraries**
-- ![React](https://img.shields.io/badge/-React-blue) 
-- ![React Native](https://img.shields.io/badge/-React%20Native-lightblue)
-- ![Django](https://img.shields.io/badge/-Django-darkgreen) 
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-teal) 
-- ![REST API](https://img.shields.io/badge/-REST%20API-brightgreen)
-- ![Tkinter](https://img.shields.io/badge/-Tkinter-blueviolet)
-- ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-yellowgreen) 
-- ![Selenium](https://img.shields.io/badge/-Selenium-lightgreen)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-React-blue" alt="React">
+  <img src="https://img.shields.io/badge/-React%20Native-lightblue" alt="React Native">
+  <img src="https://img.shields.io/badge/-Django-darkgreen" alt="Django">
+  <img src="https://img.shields.io/badge/-FastAPI-teal" alt="FastAPI">
+  <img src="https://img.shields.io/badge/-REST%20API-brightgreen" alt="REST API">
+  <img src="https://img.shields.io/badge/-Tkinter-blueviolet" alt="Tkinter">
+  <img src="https://img.shields.io/badge/-Beautiful%20Soup-yellowgreen" alt="Beautiful Soup">
+  <img src="https://img.shields.io/badge/-Selenium-lightgreen" alt="Selenium">
+</div>
 
 ### **Databases**
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-brightgreen" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-PostgreSQL-lightblue" alt="PostgreSQL">
+</div>
 
 ### **Development Tools**
-- ![VSCode](https://img.shields.io/badge/-VSCode-blue)
-- ![Git](https://img.shields.io/badge/-Git-orange)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-VSCode-blue" alt="VSCode">
+  <img src="https://img.shields.io/badge/-Git-orange" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-black" alt="GitHub">
+</div>
 
 ### **Operating Systems**
-- ![Linux](https://img.shields.io/badge/-Linux-yellow)
-- ![Windows](https://img.shields.io/badge/-Windows-blue) 
-- ![Mac OS](https://img.shields.io/badge/-Mac%20OS-silver)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-Linux-yellow" alt="Linux">
+  <img src="https://img.shields.io/badge/-Windows-blue" alt="Windows">
+  <img src="https://img.shields.io/badge/-Mac%20OS-silver" alt="Mac OS">
+</div>
 
 ### **Tools & Platforms**
-- ![API Tools](https://img.shields.io/badge/-API%20Tools-darkblue)
-- ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-blueviolet)
-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-orange)
-- ![Firefox](https://img.shields.io/badge/-Firefox-red)
-- ![Chrome](https://img.shields.io/badge/-Chrome-lightgray)
-- ![Penetration Testing Tools](https://img.shields.io/badge/-Penetration%20Testing%20Tools-black)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-API%20Tools-darkblue" alt="API Tools">
+  <img src="https://img.shields.io/badge/-Google%20Workspace-blueviolet" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-orange" alt="Microsoft Office">
+  <img src="https://img.shields.io/badge/-Firefox-red" alt="Firefox">
+  <img src="https://img.shields.io/badge/-Chrome-lightgray" alt="Chrome">
+  <img src="https://img.shields.io/badge/-Penetration%20Testing%20Tools-black" alt="Penetration Testing Tools">
+</div>
 
 
 ## Achievements
