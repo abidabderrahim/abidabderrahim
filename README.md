@@ -71,9 +71,7 @@ I specialize in building **web applications**, **mobile applications**, **GUI ap
   <a href="https://github.com/abidabderrahim?tab=achievements#gh-dark-mode-only">
       <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=onestar&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
   </a>
-  <a href="https://github.com/abidabderrahim?tab=achievements#gh-light-mode-only">
-      <img src="https://github-profile-trophy.vercel.app/?username=abidabderrahim&theme=flat&no-frame=true&column=3&row=2" width="48%" alt="@abidabderrahim's trophy stats"/>
-  </a>
+
 
   <!-- Productive Time Stats -->
   
