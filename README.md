@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/-Microsoft%20Office-orange" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/-Firefox-red" alt="Firefox">
   <img src="https://img.shields.io/badge/-Chrome-lightgray" alt="Chrome">
-  <img src="https://img.shields.io/badge/-Penetration%20Testing%20Tools-black" alt="QA Testing Tools">
+  <img src="https://img.shields.io/badge/-QA%20Testing%20Tools-black" alt="QA Testing Tools">
 </div>
 
 
