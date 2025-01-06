@@ -29,7 +29,7 @@
 <span class="line"><span style="color:#9ECBFF">         "Mobile Development"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "UI/UX Design"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "GUI Development"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "AI and Automation"</span></span>
+<span class="line"><span style="color:#9ECBFF">         "Automation Tools"</span></span>
 <span class="line"><span style="color:#E1E4E8">         ]</span></span>
 <span class="line"></span>
 <span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __repr__</span><span style="color:#E1E4E8">(self):</span></span>
