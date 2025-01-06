@@ -84,7 +84,7 @@
 
 ### **Tools & Platforms**
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-API%20Tools-darkblue" alt="API Tools">
+  <img src="https://img.shields.io/badge/-Figma-darkblue" alt="Figma">
   <img src="https://img.shields.io/badge/-Google%20Workspace-blueviolet" alt="Google Workspace">
   <img src="https://img.shields.io/badge/-Microsoft%20Office-orange" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/-Firefox-red" alt="Firefox">
