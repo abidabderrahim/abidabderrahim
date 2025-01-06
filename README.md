@@ -24,7 +24,7 @@
 <span class="line"><span style="color:#E1E4E8">         }</span></span>
 <span class="line"></span>
 <span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.</span><span style="color:#79B8FF">INTERESTS</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span></span>
-<span class="line"><span style="color:#9ECBFF">         "Penetration Testing"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">         "QA Testing"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "Web Development"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "Mobile Development"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#9ECBFF">         "UI/UX Design"</span><span style="color:#E1E4E8">,</span></span>
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/-Microsoft%20Office-orange" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/-Firefox-red" alt="Firefox">
   <img src="https://img.shields.io/badge/-Chrome-lightgray" alt="Chrome">
-  <img src="https://img.shields.io/badge/-Penetration%20Testing%20Tools-black" alt="Penetration Testing Tools">
+  <img src="https://img.shields.io/badge/-Penetration%20Testing%20Tools-black" alt="QA Testing Tools">
 </div>
 
 
