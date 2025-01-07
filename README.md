@@ -110,7 +110,7 @@
 ## Certifications
 
 - **AI Career Essentials** (ALX Program) [Repository Link](https://github.com/abidabderrahim/AI-Career-Essentials-Certificate)
-- **Git-at-a-Startup** (ALX Venturs) [Repository Link](https://github.com/abidabderrahim/gig-at-a-startup-certificate)
+- **Git-at-a-Startup** (ALX Ventures) [Repository Link](https://github.com/abidabderrahim/gig-at-a-startup-certificate)
 - **Professional Foundations** (ALX Program) [Repository Link](https://github.com/abidabderrahim/abidabderrahim-Professional-Foundations-Certificate)
 
 ## Credly Badge From IBM SkillsBuild
