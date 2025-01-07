@@ -113,4 +113,18 @@
 - **Git-at-a-Startup** (ALX Program) [Repository Link](https://github.com/abidabderrahim/gig-at-a-startup-certificate)
 - **Professional Foundations** (ALX Program) [Repository Link](https://github.com/abidabderrahim/abidabderrahim-Professional-Foundations-Certificate)
 
-[![My Credly Badge](https://www.credly.com/badges/3442eaef-a46a-4cdc-9f56-b94dbcbf08ac/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/3442eaef-a46a-4cdc-9f56-b94dbcbf08ac/public_url">
+    <img src="https://images.credly.com/size/220x220/images/image-url-1.png" alt="Badge 1" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/961ab5fa-6d43-41f1-a770-fe9a5e960ecb/public_url">
+    <img src="https://images.credly.com/size/220x220/images/image-url-2.png" alt="Badge 2" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/32e221b2-f344-4f93-bcbb-67c2fa98ccda/public_url">
+    <img src="https://images.credly.com/size/220x220/images/image-url-3.png" alt="Badge 3" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/78ab186f-2f0a-43df-9464-868a89e28e08/public_url">
+    <img src="https://images.credly.com/size/220x220/images/image-url-4.png" alt="Badge 4" width="100" />
+  </a>
+</p>
+
