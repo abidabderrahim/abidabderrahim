@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/3442eaef-a46a-4cdc-9f56-b94dbcbf08ac/public_url">
-    <img src="/image1" alt="Badge 1" width="100" />
+    <img src="abidabderrahim/image1.png" alt="Badge 1" width="100" />
   </a>
   <a href="https://www.credly.com/badges/961ab5fa-6d43-41f1-a770-fe9a5e960ecb/public_url">
     <img src="https://images.credly.com/size/220x220/images/image-url-2.png" alt="Badge 2" width="100" />
