@@ -4,38 +4,40 @@
 
 </p>
 
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> Abderrahim</span><span style="color:#E1E4E8">(</span><span style="color:#B392F0">SelfTaughtDeveloper</span><span style="color:#E1E4E8">):</span></span>
-<span class="line"><span style="color:#9ECBFF">   """Self-taught developer with a passion for IT and technology"""</span></span>
-<span class="line"><span style="color:#E1E4E8">   </span></span>
-<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __init__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#E1E4E8">     </span></span>
-<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Abderrahim"</span></span>
-<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.age </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> 24</span></span>
-<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.role </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Freelancer & Developer"</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.</span><span style="color:#79B8FF">TOOLS</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
-<span class="line"><span style="color:#9ECBFF">          "ScriptingLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"JavaScript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Bash-Script"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"JavaScript"</span><span style="color:#E1E4E8">),</span></span>
-<span class="line"><span style="color:#9ECBFF">          "ProgrammingLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"C"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">),</span></span>
-<span class="line"><span style="color:#9ECBFF">          "MarkupLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"HTML"</span><span style="color:#E1E4E8">),</span></span>
- <span class="line"><span style="color:#9ECBFF">          "StylingLanguages"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"CSS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"markdown"</span><span style="color:#E1E4E8">),</span></span>
-<span class="line"><span style="color:#9ECBFF">          "Editors"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"VsCode"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Vim"</span><span style="color:#E1E4E8">),</span></span>
-<span class="line"><span style="color:#9ECBFF">          "Platform"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"GNU/LINUX"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Windows"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Mac OS"</span><span style="color:#E1E4E8">),</span></span>
-<span class="line"><span style="color:#9ECBFF">          "OtherTools"</span><span style="color:#E1E4E8"> : (</span><span style="color:#9ECBFF">"Git"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Github"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Docker"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"FireFox"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Chrome"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Google WorkSpace"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Microsoft Office"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Figma"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Shell"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"ChatGPT"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"..."</span><span style="color:#E1E4E8">),</span></span>
-<span class="line"><span style="color:#E1E4E8">         }</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#79B8FF">      self</span><span style="color:#E1E4E8">.</span><span style="color:#79B8FF">INTERESTS</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span></span>
-<span class="line"><span style="color:#9ECBFF">         "QA Testing"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "Web Development"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "Mobile Development"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "UI/UX Design"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "GUI Development"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#9ECBFF">         "Automation Tools"</span></span>
-<span class="line"><span style="color:#E1E4E8">         ]</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">   def</span><span style="color:#79B8FF"> __repr__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#9ECBFF">      """"""</span></span>
-<span class="line"><span style="color:#F97583">      return</span><span style="color:#F97583"> f</span><span style="color:#9ECBFF">"</span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.name</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> an </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.age</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF"> y.o self-taught developer, working as </span><span style="color:#79B8FF">{self</span><span style="color:#E1E4E8">.role</span><span style="color:#79B8FF">}</span><span style="color:#9ECBFF">"</span></span>
-<span class="line"></code></pre>
+<pre class="astro-code github-dark" style="background-color:#24292e; color:#e1e4e8; overflow-x: auto;" tabindex="0">
+<code>
+<span style="color:#FF7A85;">class</span> <span style="color:#B392F0;">Abderrahim</span>(<span style="color:#B392F0;">SelfTaughtDeveloper</span>):
+    <span style="color:#9ECBFF;">"""Self-taught developer with a passion for IT and technology"""</span>
+
+    <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__init__</span>(self):
+        self.name = <span style="color:#9ECBFF;">"Abderrahim"</span>
+        self.age = <span style="color:#79B8FF;">24</span>
+        self.role = <span style="color:#9ECBFF;">"Freelancer & Developer"</span>
+
+        self.TOOLS = {
+            <span style="color:#9ECBFF;">"ScriptingLanguages"</span>: (<span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"Bash-Script"</span>),
+            <span style="color:#9ECBFF;">"ProgrammingLanguages"</span>: (<span style="color:#9ECBFF;">"C"</span>, <span style="color:#9ECBFF;">"Python"</span>),
+            <span style="color:#9ECBFF;">"MarkupLanguages"</span>: (<span style="color:#9ECBFF;">"HTML"</span>),
+            <span style="color:#9ECBFF;">"StylingLanguages"</span>: (<span style="color:#9ECBFF;">"CSS"</span>, <span style="color:#9ECBFF;">"Markdown"</span>),
+            <span style="color:#9ECBFF;">"Editors"</span>: (<span style="color:#9ECBFF;">"VsCode"</span>, <span style="color:#9ECBFF;">"Vim"</span>),
+            <span style="color:#9ECBFF;">"Platform"</span>: (<span style="color:#9ECBFF;">"GNU/Linux"</span>, <span style="color:#9ECBFF;">"Windows"</span>, <span style="color:#9ECBFF;">"Mac OS"</span>),
+            <span style="color:#9ECBFF;">"OtherTools"</span>: (<span style="color:#9ECBFF;">"Git"</span>, <span style="color:#9ECBFF;">"GitHub"</span>, <span style="color:#9ECBFF;">"Docker"</span>, <span style="color:#9ECBFF;">"Firefox"</span>)
+        }
+
+        self.INTERESTS = [
+            <span style="color:#9ECBFF;">"QA Testing"</span>,
+            <span style="color:#9ECBFF;">"Web Development"</span>,
+            <span style="color:#9ECBFF;">"Mobile Development"</span>,
+            <span style="color:#9ECBFF;">"UI/UX Design"</span>,
+            <span style="color:#9ECBFF;">"GUI Development"</span>,
+            <span style="color:#9ECBFF;">"Automation Tools"</span>
+        ]
+
+    <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__repr__</span>(self):
+        <span style="color:#9ECBFF;">""\"Returns a description of the developer.\"""</span>
+        <span style="color:#FF7A85;">return</span> f<span style="color:#9ECBFF;">"{self.name} is a {self.age}-year-old self-taught developer working as {self.role}."</span>
+</code>
+</pre>
 
 ## Skills and Tools
 
