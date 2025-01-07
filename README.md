@@ -113,7 +113,7 @@
 - **Git-at-a-Startup** (ALX Program) [Repository Link](https://github.com/abidabderrahim/gig-at-a-startup-certificate)
 - **Professional Foundations** (ALX Program) [Repository Link](https://github.com/abidabderrahim/abidabderrahim-Professional-Foundations-Certificate)
 
-<p align="center">
+<p align="start">
   <a href="https://www.credly.com/badges/3442eaef-a46a-4cdc-9f56-b94dbcbf08ac/public_url">
     <img src="/image1.png" alt="Badge 1" width="100" />
   </a>
