@@ -17,7 +17,27 @@
         self.TOOLS = {
             <span style="color:#9ECBFF;">"Languages"</span>: (<span style="color:#9ECBFF;">"Python"</span>, <span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"SQL"</span>, <span style="color:#9ECBFF;">"Bash"</span>, <span style="color:#9ECBFF;">"Shell"</span>),
             <span style="color:#9ECBFF;">"Frameworks"</span>: (<span style="color:#9ECBFF;">"Django"</span>, <span style="color:#9ECBFF;">"React"</span>, <span style="color:#9ECBFF;">"FastAPI"</span>, <span style="color:#9ECBFF;">"GraphQL"</span>, <span style="color:#9ECBFF;">"Flutter"</span>),
-            <span style="color:#9ECBFF;">"UI/UX"</span>: (<span style="color:#9ECBFF;">"Figma"</span>, <span style="color:#9
+            <span style="color:#9ECBFF;">"UI/UX"</span>: (<span style="color:#9ECBFF;">"Figma"</span>, <span style="color:#9ECBFF;">"Adobe XD"</span>, <span style="color:#9ECBFF;">"Tkinter"</span>, <span style="color:#9ECBFF;">"PyQT"</span>),
+            <span style="color:#9ECBFF;">"Testing"</span>: (<span style="color:#9ECBFF;">"Postman"</span>, <span style="color:#9ECBFF;">"Burp Suite"</span>, <span style="color:#9ECBFF;">"Selenium"</span>, <span style="color:#9ECBFF;">"OWASP ZAP"</span>),
+            <span style="color:#9ECBFF;">"Databases"</span>: (<span style="color:#9ECBFF;">"MySQL"</span>, <span style="color:#9ECBFF;">"PostgreSQL"</span>, <span style="color:#9ECBFF;">"MongoDB"</span>),
+            <span style="color:#9ECBFF;">"Automation"</span>: (<span style="color:#9ECBFF;">"Python Scripts"</span>, <span style="color:#9ECBFF;">"Shell Scripting"</span>, <span style="color:#9ECBFF;">"CI/CD"</span>),
+            <span style="color:#9ECBFF;">"Platforms"</span>: (<span style="color:#9ECBFF;">"GNU/Linux"</span>, <span style="color:#9ECBFF;">"Windows"</span>, <span style="color:#9ECBFF;">"Mac OS"</span>),
+            <span style="color:#9ECBFF;">"Version Control"</span>: (<span style="color:#9ECBFF;">"Git"</span>, <span style="color:#9ECBFF;">"GitHub"</span>, <span style="color:#9ECBFF;">"Docker"</span>)
+        }
+
+        self.INTERESTS = [
+            <span style="color:#9ECBFF;">"Full-Stack Development"</span>,
+            <span style="color:#9ECBFF;">"UI/UX Design"</span>,
+            <span style="color:#9ECBFF;">"QA Testing & Automation"</span>,
+            <span style="color:#9ECBFF;">"Security & Performance Optimization"</span>,
+            <span style="color:#9ECBFF;">"Scripting & Workflow Automation"</span>
+        ]
+
+    <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__repr__</span>(self):
+        <span style="color:#9ECBFF;">""\"Returns a description of the developer.\"""</span>
+        <span style="color:#FF7A85;">return</span> f<span style="color:#9ECBFF;">"{self.name} is a passionate {self.role} specializing in {', '.join(self.expertise)}."</span>
+</code>
+</pre>
 
 ## Skills and Tools
 
