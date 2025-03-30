@@ -7,37 +7,17 @@
 <pre class="astro-code github-dark" style="background-color:#24292e; color:#e1e4e8; overflow-x: auto;" tabindex="0">
 <code>
 <span style="color:#FF7A85;">class</span> <span style="color:#B392F0;">Abderrahim</span>(<span style="color:#B392F0;">SelfTaughtDeveloper</span>):
-    <span style="color:#9ECBFF;">"""Self-taught developer with a passion for IT and technology"""</span>
+    <span style="color:#9ECBFF;">"""Full-Stack Developer | UI/UX Designer | QA & Automation Specialist"""</span>
 
     <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__init__</span>(self):
         self.name = <span style="color:#9ECBFF;">"Abderrahim"</span>
-        self.age = <span style="color:#79B8FF;">24</span>
-        self.role = <span style="color:#9ECBFF;">"Freelancer & Developer"</span>
+        self.role = <span style="color:#9ECBFF;">"Full-Stack Developer & UI/UX Designer"</span>
+        self.expertise = (<span style="color:#9ECBFF;">"Web"</span>, <span style="color:#9ECBFF;">"Mobile"</span>, <span style="color:#9ECBFF;">"Desktop"</span>, <span style="color:#9ECBFF;">"QA & Automation"</span>)
 
         self.TOOLS = {
-            <span style="color:#9ECBFF;">"ScriptingLanguages"</span>: (<span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"Bash-Script"</span>),
-            <span style="color:#9ECBFF;">"ProgrammingLanguages"</span>: (<span style="color:#9ECBFF;">"C"</span>, <span style="color:#9ECBFF;">"Python"</span>),
-            <span style="color:#9ECBFF;">"MarkupLanguages"</span>: (<span style="color:#9ECBFF;">"HTML"</span>),
-            <span style="color:#9ECBFF;">"StylingLanguages"</span>: (<span style="color:#9ECBFF;">"CSS"</span>, <span style="color:#9ECBFF;">"Markdown"</span>),
-            <span style="color:#9ECBFF;">"Editors"</span>: (<span style="color:#9ECBFF;">"VsCode"</span>, <span style="color:#9ECBFF;">"Vim"</span>),
-            <span style="color:#9ECBFF;">"Platform"</span>: (<span style="color:#9ECBFF;">"GNU/Linux"</span>, <span style="color:#9ECBFF;">"Windows"</span>, <span style="color:#9ECBFF;">"Mac OS"</span>),
-            <span style="color:#9ECBFF;">"OtherTools"</span>: (<span style="color:#9ECBFF;">"Git"</span>, <span style="color:#9ECBFF;">"GitHub"</span>, <span style="color:#9ECBFF;">"Docker"</span>, <span style="color:#9ECBFF;">"Firefox"</span>)
-        }
-
-        self.INTERESTS = [
-            <span style="color:#9ECBFF;">"QA Testing"</span>,
-            <span style="color:#9ECBFF;">"Web Development"</span>,
-            <span style="color:#9ECBFF;">"Mobile Development"</span>,
-            <span style="color:#9ECBFF;">"UI/UX Design"</span>,
-            <span style="color:#9ECBFF;">"GUI Development"</span>,
-            <span style="color:#9ECBFF;">"Automation Tools"</span>
-        ]
-
-    <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__repr__</span>(self):
-        <span style="color:#9ECBFF;">""\"Returns a description of the developer.\"""</span>
-        <span style="color:#FF7A85;">return</span> f<span style="color:#9ECBFF;">"{self.name} is a {self.age}-year-old self-taught developer working as {self.role}."</span>
-</code>
-</pre>
+            <span style="color:#9ECBFF;">"Languages"</span>: (<span style="color:#9ECBFF;">"Python"</span>, <span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"SQL"</span>, <span style="color:#9ECBFF;">"Bash"</span>, <span style="color:#9ECBFF;">"Shell"</span>),
+            <span style="color:#9ECBFF;">"Frameworks"</span>: (<span style="color:#9ECBFF;">"Django"</span>, <span style="color:#9ECBFF;">"React"</span>, <span style="color:#9ECBFF;">"FastAPI"</span>, <span style="color:#9ECBFF;">"GraphQL"</span>, <span style="color:#9ECBFF;">"Flutter"</span>),
+            <span style="color:#9ECBFF;">"UI/UX"</span>: (<span style="color:#9ECBFF;">"Figma"</span>, <span style="color:#9
 
 ## Skills and Tools
 
