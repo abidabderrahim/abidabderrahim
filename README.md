@@ -15,7 +15,7 @@
         self.expertise = (<span style="color:#9ECBFF;">"Web"</span>, <span style="color:#9ECBFF;">"Mobile"</span>, <span style="color:#9ECBFF;">"Desktop"</span>, <span style="color:#9ECBFF;">"QA & Automation"</span>)
 
         self.TOOLS = {
-            <span style="color:#9ECBFF;">"Languages"</span>: (<span style="color:#9ECBFF;">"Python"</span>, <span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"SQL"</span>, <span style="color:#9ECBFF;">"Bash"</span>, <span style="color:#9ECBFF;">"Shell"</span>),
+            <span style="color:#9ECBFF;">"Languages"</span>: (<span style="color:#9ECBFF;">"Python"</span>, <span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"SQL"</span>, <span style="color:#9ECBFF;">"Bash"</span>),
             <span style="color:#9ECBFF;">"Frameworks"</span>: (<span style="color:#9ECBFF;">"Django"</span>, <span style="color:#9ECBFF;">"React"</span>, <span style="color:#9ECBFF;">"FastAPI"</span>, <span style="color:#9ECBFF;">"GraphQL"</span>, <span style="color:#9ECBFF;">"Flutter"</span>, <span style="color:#9ECBFF;">"React Native"</span>),
             <span style="color:#9ECBFF;">"UI/UX"</span>: (<span style="color:#9ECBFF;">"Figma"</span>, <span style="color:#9ECBFF;">"Tkinter"</span>, <span style="color:#9ECBFF;">"PyQT"</span>),
             <span style="color:#9ECBFF;">"Testing"</span>: (<span style="color:#9ECBFF;">"Postman"</span>, <span style="color:#9ECBFF;">"Burp Suite"</span>, <span style="color:#9ECBFF;">"Selenium"</span>, <span style="color:#9ECBFF;">"OWASP ZAP"</span>),
