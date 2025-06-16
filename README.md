@@ -100,7 +100,7 @@
 
 ## Contact Info
 
-- **Email**: [abidabderrahim01@gmail.com](mailto:abidabderrahim.work@gmail.com)  
+- **Email**: [abidabderrahim.work@gmail.com](mailto:abidabderrahim.work@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)  
 - **Upwork**: [upwork.com/freelancers/~abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)
 
