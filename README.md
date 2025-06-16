@@ -7,12 +7,12 @@
 <pre class="astro-code github-dark" style="background-color:#24292e; color:#e1e4e8; overflow-x: auto;" tabindex="0">
 <code>
 <span style="color:#FF7A85;">class</span> <span style="color:#B392F0;">Abderrahim</span>(<span style="color:#B392F0;">SelfTaughtDeveloper</span>):
-    <span style="color:#9ECBFF;">"""Full-Stack Developer | UI/UX Designer | QA & Automation Specialist"""</span>
+    <span style="color:#9ECBFF;">"""Full-Stack Developer | UI/UX Designer"""</span>
 
     <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__init__</span>(self):
         self.name = <span style="color:#9ECBFF;">"Abderrahim"</span>
         self.role = <span style="color:#9ECBFF;">"Full-Stack Developer & UI/UX Designer"</span>
-        self.expertise = (<span style="color:#9ECBFF;">"Web"</span>, <span style="color:#9ECBFF;">"Mobile"</span>, <span style="color:#9ECBFF;">"Desktop"</span>, <span style="color:#9ECBFF;">"QA & Automation"</span>)
+        self.expertise = (<span style="color:#9ECBFF;">"Web"</span>, <span style="color:#9ECBFF;">"Mobile"</span>, <span style="color:#9ECBFF;">"Desktop"</span>)
 
         self.TOOLS = {
             <span style="color:#9ECBFF;">"Languages"</span>: (<span style="color:#9ECBFF;">"Python"</span>, <span style="color:#9ECBFF;">"JavaScript"</span>, <span style="color:#9ECBFF;">"SQL"</span>, <span style="color:#9ECBFF;">"Bash"</span>),
@@ -28,9 +28,6 @@
         self.INTERESTS = [
             <span style="color:#9ECBFF;">"Full-Stack Development"</span>,
             <span style="color:#9ECBFF;">"UI/UX Design"</span>,
-            <span style="color:#9ECBFF;">"QA Testing & Automation"</span>,
-            <span style="color:#9ECBFF;">"Security & Performance Optimization"</span>,
-            <span style="color:#9ECBFF;">"Scripting & Workflow Automation"</span>
         ]
 
     <span style="color:#FF7A85;">def</span> <span style="color:#79B8FF;">__repr__</span>(self):
@@ -103,7 +100,7 @@
 
 ## Contact Info
 
-- **Email**: [abidabderrahim01@gmail.com](mailto:abidabderrahim01@gmail.com)  
+- **Email**: [abidabderrahim01@gmail.com](mailto:abidabderrahim.work@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)  
 - **Upwork**: [upwork.com/freelancers/~abderrahim](https://www.upwork.com/freelancers/~01edac6730544c1cb3?mp_source=share)
 
